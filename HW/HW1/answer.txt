@@ -1,0 +1,33 @@
+1.
+	(i) một hệ thống phân loại các đồng xu cho máy bán hàng tự động. Các developers có được các thông số kỹ thuật tiền xu chính xác từ U.S. Mint 
+	và phái sinh ra 1 mô hình thống kê về kích thước, khối lượng và mệnh giá ma máy bán có thể duung để phân biệt các loại tiền. 
+	Đây không phải là học ()
+	(ii) Đây là học có giám sát. Vì ta có dữ liệu đầu vào với các nhãn được gắn (Output tương ứng)
+	(iii) Đây là học tăng cường. Vì máy được phát triển để học thông qua các sự kiện thua sau khi máy thực hiện trước đó.
+	
+	=> Chọn [d]
+	
+3. 
+	Gọi A là biến cố bốc được túi chứa 2 bi đen P(A) = 1/2.
+	Gọi B là biến cố bốc được bi đen ở lần thứ nhất: P(B) = 3/4. 
+	(Vì có 3 trong 4 TH bóc được bi đen đầu tiên: đen1(túi 1), đen2(túi 1),đen3(túi 2), w(túi 2).
+	Xác suất để vừa bốc được túi chứa 2 bi đen và bóc được bi đen đầu tiên là: P(A^B) = 1/2
+	Xác suất để bóc viên bi thứ 2 là đen là xác suất có điều kiện của biến cố A với điều kiện B
+	P(A|B) = P(A^B)/P(B) = (1/2)/(3/4) = (2/3)
+	=> Chọn [d]
+4.
+	Xác suất bóc trúng bi màu đỏ là P(R) = 0.55 => xác suất không bóc được bi đỏ là P(-R) = (1 - 0.55) = 0.45
+	Với 1 lần lấy mẫu, xác suất để v = 0 (hay không có bi màu đỏ) là: P(A) = P(-R)^10 = 0.45 ^ 10 xấp xỉ bằng 3.405 x 10-4
+	=> Chọn [b] 3.405×10−4 
+
+5.
+	Gọi A là biến cố để trong tập 10 mẫu không có bi màu đỏ
+	Xác suất để v = 0 là: P(A) = 0.45x10^-4 (tính từ câu 4).
+	Xác suất để v != 0 là: P(-A) = 1 - P(A)
+	
+	Xác suất trong 1000 mẫu độc lập không có mẫu nào có v = 0 là: P(B) = P(-A)^1000
+	suy ra -B là biến cố ngược của biến cố B: P(-B) = 1 - P(B) = 
+	
+	
+	
+6.
