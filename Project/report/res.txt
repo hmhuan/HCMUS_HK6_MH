@@ -1,0 +1,106 @@
+1.
+	- C =  0
+		train score:  0.92274
+		validation score:  0.9215
+		Wall time: 10.9 s
+	
+	- C =  0.05
+		train score:  0.92396
+		validation score:  0.9214
+		Wall time: 19.2 s
+	
+	- C =  0.1
+		train score:  0.92424
+		validation score:  0.921
+		Wall time: 27.3 s
+	
+	- C =  0.15000000000000002
+		train score:  0.9244
+		validation score:  0.921
+		Wall time: 43.1 s
+	
+	- C =  0.2
+		train score:  0.9247
+		validation score:  0.9213
+		Wall time: 56.5 s
+
+	- C =  0.25
+		train score:  0.92496
+		validation score:  0.9218
+		Wall time: 1min 7s
+	
+	- C =  0.3
+		train score:  0.9253
+		validation score:  0.9216
+		Wall time: 1min 14s
+	
+	- C =  0.35
+		train score:  0.9253
+		validation score:  0.9215
+		Wall time: 1min 26s
+	
+	- C =  0.39999999999999997
+		train score:  0.92536
+		validation score:  0.9211
+		Wall time: 1min 37s
+	
+	- C =  0.44999999999999996
+		train score:  0.9255
+		validation score:  0.9212
+		Wall time: 1min 53s
+	
+	- C =  0.49999999999999994
+		train score:  0.92564
+		validation score:  0.9213
+		Wall time: 1min 53s
+	
+	- C =  0.5499999999999999
+		train score:  0.92566
+		validation score:  0.9212
+		Wall time: 2min 4s
+	
+	- C =  0.6
+		train score:  0.9257
+		validation score:  0.921
+		Wall time: 2min
+	
+	- C =  0.65
+		train score:  0.92582
+		validation score:  0.9211
+		Wall time: 2min 14s
+	
+	- C =  0.7000000000000001
+		train score:  0.92586
+		validation score:  0.921
+		Wall time: 2min 47s
+	
+	- C =  0.7500000000000001
+		train score:  0.92596
+		validation score:  0.9209
+		Wall time: 2min 36s
+	
+	- C =  0.8000000000000002
+		train score:  0.92596
+		validation score:  0.9208
+		Wall time: 2min 41s
+	
+	- C =  0.8500000000000002
+		train score:  0.9261
+		validation score:  0.9206
+		Wall time: 3min 4s
+	
+	- C =  0.9000000000000002
+		train score:  0.92622
+		validation score:  0.9205
+		Wall time: 3min 20s
+	
+	- C =  0.9500000000000003
+		train score:  0.92636
+		validation score:  0.9205
+		Wall time: 3min 28s
+	
+	- C =  1.0000000000000002
+		train score:  0.92634
+		validation score:  0.9207
+		Wall time: 4min 5s
+	Wall time: 40min 15s
